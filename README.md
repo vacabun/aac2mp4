@@ -4,4 +4,4 @@
 
 Put audio files and pictures in folders, such as input.aac and input.png.
 
-run ./repackage.sh
+Run ./repackage.sh
